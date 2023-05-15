@@ -6,7 +6,7 @@ Full Stack Developer 👨🏿‍💻
 
 * 🌍  I'm based in Sioux Falls, South Dakota
 * ✉️  You can contact me at [tyler.miller3121@gmail.com](mailto:tyler.miller3121@gmail.com)
-* 🧠  I'm learning and advancing my ReactJS knowledge
+* 🧠  I'm currently learning and advancing my Front-End skills
 * 🤝  I'm open to collaborating on Open Source Projects or anything I can help contribute to!
 
 ### Skills
